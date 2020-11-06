@@ -1,0 +1,36 @@
+<RCC>
+    <qresource prefix="/Icons">
+        <file>Resources/xcbr32.ico</file>
+        <file>Resources/xcbr64.ico</file>
+        <file>Resources/compute64.ico</file>
+        <file>Resources/computengg64.ico</file>
+        <file>Resources/ctrl64.ico</file>
+        <file>Resources/ied64.ico</file>
+        <file>Resources/cnr64.ico</file>
+        <file>Resources/msgpacket.ico</file>
+        <file>Resources/msgpacket48.ico</file>
+        <file>Resources/user64.ico</file>
+        <file>Resources/pm87764.ico</file>
+        <file>Resources/action48.ico</file>
+        <file>Resources/historian64.ico</file>
+        <file>Resources/FT.ico</file>
+        <file>Resources/PT.ico</file>
+        <file>Resources/boiler.ico</file>
+        <file>Resources/boiler128.ico</file>
+        <file>Resources/device.ico</file>
+        <file>Resources/gen32.ico</file>
+        <file>Resources/motor64.ico</file>
+        <file>Resources/gen64.ico</file>
+        <file>Resources/turbine32.ico</file>
+        <file>Resources/turbine64.ico</file>
+        <file>Resources/device64.ico</file>
+        <file>Resources/boiler32.ico</file>
+        <file>Resources/steam48.ico</file>
+        <file>Resources/elecsignal48.ico</file>
+        <file>Resources/elecsignal32.ico</file>
+        <file>Resources/steam32.ico</file>
+        <file>Resources/key32.ico</file>
+        <file>Resources/certificate32.ico</file>
+        <file>Resources/flame32.ico</file>
+    </qresource>
+</RCC>
